@@ -1,0 +1,1 @@
+The main goal of this project is to create a website by using Git, Github, and HTML. 
