@@ -27,6 +27,12 @@ p {
     font-size:22px;
 }
 
+h4.categories {
+    text-align:left;
+    color:green;
+    font-size:28px;
+    font-weight:700;
+}
 .steps li, .steps .categories {
     text-align:left;
 }
